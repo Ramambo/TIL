@@ -1,7 +1,7 @@
 # 개발 학습 일지 (Dev Learning Diary)
 
-![GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repo-name)
+<--! [GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)-->
+<--! [GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repo-name) -->
 
 ## 📝 소개
 
@@ -50,7 +50,6 @@
 
 - 분야별 투자 시간
 - 총 학습시간
-```
 
 ## 📊 학습 분야
 
@@ -59,7 +58,7 @@
 - 알고리즘 & 자료구조
 - 백엔드 개발 (Spring Boot)
 - 데이터베이스
-- (추가 분야...)
+- 리눅스스
 
 ## 🎯 목표
 
@@ -72,23 +71,18 @@
 
 | 월  | 알고리즘 문제 | 프로젝트 작업 | 새로운 기술 |
 | --- | ------------- | ------------- | ----------- |
-| 1월 | 0개           | 0시간         | 0개         |
-| 2월 | 0개           | 0시간         | 0개         |
+| 4월 | 0개           | 0시간         | 0개         |
+| 5월 | 0개           | 0시간         | 0개         |
 | ... | ...           | ...           | ...         |
 
 ## 💻 주요 프로젝트
 
-- [프로젝트 이름](링크) - 간략한 설명
-- (다른 프로젝트...)
+## 🎁 연락처
 
-## 📞 연락처
-
-개발 관련 질문이나 피드백은 언제든 환영합니다!
-
-- 이메일: your.email@example.com
-- 블로그: [블로그 이름](링크)
-- 깃허브: [username](https://github.com/username)
+- 이메일: wendy_0805@naver.com
+- 깃허브: [Ramambo](https://github.com/ramambo)
 
 ---
 
-⭐ 이 레포지토리가 도움이 되었다면 스타를 눌러주세요!
+⭐
+```
