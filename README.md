@@ -1,7 +1,7 @@
 # 개발 학습 일지 (Dev Learning Diary)
 
-<--! [GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name)-->
-<--! [GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repo-name) -->
+<!-- [GitHub last commit](https://img.shields.io/github/last-commit/username/repo-name) -->
+<!-- [GitHub commit activity](https://img.shields.io/github/commit-activity/m/username/repo-name) -->
 
 ## 📝 소개
 
@@ -50,6 +50,7 @@
 
 - 분야별 투자 시간
 - 총 학습시간
+```
 
 ## 📊 학습 분야
 
@@ -58,7 +59,7 @@
 - 알고리즘 & 자료구조
 - 백엔드 개발 (Spring Boot)
 - 데이터베이스
-- 리눅스스
+- 리눅스
 
 ## 🎯 목표
 
@@ -85,4 +86,3 @@
 ---
 
 ⭐
-```
